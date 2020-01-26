@@ -1,4 +1,4 @@
 [submodule "waveglow"]
 	path = waveglow
-	url = git@github.com:nathantsoi/waveglow
+	url = https://github.com/yale-img/waveglow
 	branch = master
